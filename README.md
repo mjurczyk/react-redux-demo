@@ -11,3 +11,7 @@ npm install && npm start
 Application listens on port `8080`. 
 
 To run unit testing use `npm test`.
+
+### Credits for icons
+
+Icons included in the project made by **{** Gregor Cresnar, Madebyoliver, Pixel Buddha **}** from www.flaticon.com 
